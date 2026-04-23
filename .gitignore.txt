@@ -1,0 +1,6 @@
+*.wav
+*.flac
+*.mp3
+data/
+Babbble for covariance/
+Babble for covariance/
